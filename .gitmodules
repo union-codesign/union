@@ -2,3 +2,6 @@
 	path = union-opt
 	url = git@github.com:georgia-tech-synergy-lab/union.git
 	branch = pact21-AE
+[submodule "union-front"]
+	path = union-front
+	url = git@gitlab.com:gkestor84/union.git
