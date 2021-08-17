@@ -1,0 +1,4 @@
+[submodule "union-opt"]
+	path = union-opt
+	url = git@github.com:georgia-tech-synergy-lab/union.git
+	branch = pact21-AE
